@@ -25,7 +25,7 @@ ko bravo
 ```
 
 # List Players teams Manchester City
-*bravo
+#bravo
 *ederson
 *gunn
 *mendy
