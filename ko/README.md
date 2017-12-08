@@ -25,18 +25,18 @@ ko bravo
 ```
 
 # List Players teams Manchester City
-#bravo
-*ederson
-*gunn
-*mendy
-*danilo
-*walker
-*tosin
-*stones
-*otamendi
-*vincent
-*gundogan
-*kdb
+*bravo,
+*ederson,
+*gunn,
+*mendy,
+*danilo,
+*walker,
+*tosin,
+*stones,
+*otamendi,
+*vincent,
+*gundogan,
+*kdb,
 *sane
 *delph
 *garcia
